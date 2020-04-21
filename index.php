@@ -26,7 +26,7 @@
 <body>
   <div align="center">
     <h2>Environment For Php application</h2>
-    <p>NCU: Northcentral University</p>
+    <p>For Northcentral University By RSystems</p>
   </div>
 </body>
 </html>
